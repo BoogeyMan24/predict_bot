@@ -1,5 +1,8 @@
 # Python Recommender Discord Bot Template
 
+## My changes consist of mostly of changing recommend.py for the predict and movieinfo commands, however some other files probably were changed.
+## I don't take credit for any other work.
+
 <p align="center">
   <a href="https://github.com/kkrypt0nn/Python-Discord-Bot-Template/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/kkrypt0nn/Python-Discord-Bot-Template"></a>
 </p>
